@@ -33,7 +33,7 @@ TerraGrow is an intelligent web app that uses a Random Forest model for crop rec
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
    ```bash  
-   daytona create https://github.com/Subash-Lamichhane/TerraGrow-daytona
+   daytona create https://github.com/daytonaio/sample-crops-ml
    ```  
 
 3. **Add 3000 as forwarded ports.**
